@@ -1,0 +1,43 @@
+.logo{
+
+    position: absolute;
+    top:20%;
+    left:41%;
+    transform: translated(-50%,-50%);
+}
+
+
+.search{
+
+    position: absolute;
+    top:40%;
+    left:30%;
+    transform: translated(-50%,-50%);
+    border-radius: 20px;
+    padding: 0 40px 0 45px;
+      
+}
+
+
+.buttons{
+
+    position: absolute;
+    top:50%;
+    left:43%;
+    transform: translated(-50%,-50%);
+}
+
+
+.languages{
+
+    position: absolute;
+    top:60%;
+    left:43%;
+    transform: translated(-50%,-50%);
+	display: inline;
+    margin-top: 30px;
+    list-style: none;
+	margin: 0  5px;
+	font-size: 13px;
+    
+}
